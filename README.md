@@ -1,5 +1,5 @@
 # Spotify Song Recommender
-Recommending songs based on my music taste.
+Recommending songs based on my music taste. Link to my Medium Article: https://medium.com/@kalibrahim/music-recommendation-using-spotifys-api-58cdb3a613e9
 
 ## Installation
 I am using Python 3.7.3 and Anaconda for this project. You can use requirements.txt file with pip to install all dependencies. 
